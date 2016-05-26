@@ -1,0 +1,21 @@
+{
+  "name": "todo-crud",
+  "homepage": "https://github.com/markeasterling/todo-crud",
+  "authors": [
+    "Mark Easterling <marke.easterling@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.4",
+    "bootstrap": "^3.3.6"
+  }
+}
